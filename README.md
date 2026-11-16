@@ -179,7 +179,7 @@ Using the selected Random Forest model and flagging the top 20% of test members:
 - Test-set churn base rate: **3.9%**
 - Recall: **51.5%**
 
-![Confusion matrix for the top 20 percent risk flag](airline_loyalty_readme_assets/03_top20_risk_confusion_matrix.png)
+![Confusion matrix for the top 20 percent risk flag](IMAGES/03_top20_risk_confusion_matrix.png)
 
 ### 7. Feature importance
 
