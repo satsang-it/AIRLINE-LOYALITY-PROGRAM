@@ -185,7 +185,7 @@ Using the selected Random Forest model and flagging the top 20% of test members:
 
 Permutation importance is calculated on the test set using ROC-AUC and 20 repeats.
 
-![Permutation feature importance](airline_loyalty_readme_assets/04_permutation_feature_importance.png)
+![Permutation feature importance](IMAGES/04_permutation_feature_importance.png)
 
 `Tenure_Months` is the dominant feature: shuffling it reduces test AUC by approximately **0.208**. The other features have values close to zero in this run. This suggests that, once tenure is known, the other model features add little unique predictive information in this dataset. Small or negative permutation values do not prove that a feature is universally useless.
 
