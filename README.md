@@ -168,7 +168,7 @@ The notebook uses:
 
 Random contact of 20% of members would find approximately 20% of churners. The models find around 50–54% in that same contact group.
 
-![ROC curves and cumulative gains](airline_loyalty_readme_assets/02_model_performance.png)
+![ROC curves and cumulative gains](IMAGES/02_model_performance.png)
 
 **Model selection:** Random Forest is selected for risk-tier creation because it has the highest mean cross-validated ROC-AUC on the training data (0.727). It is not the best on every test metric: the tenure-only baseline has the highest test ROC-AUC, while Logistic Regression catches the largest share of churners in the top 20%. The differences should be interpreted cautiously because the test set contains only 97 churners.
 
