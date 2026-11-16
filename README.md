@@ -134,7 +134,7 @@ Gender, marital status, and province were not included in the model because the 
 
 The exploratory analysis compares churn rates across membership tenure, flight activity, and loyalty-card categories, then checks demographic groups.
 
-![Churn patterns by tenure, activity, and loyalty card](airline_loyalty_readme_assets/01_churn_patterns.png)
+![Churn patterns by tenure, activity, and loyalty card](IMAGES/01_churn_patterns.png)
 
 Main observations from the notebook:
 
