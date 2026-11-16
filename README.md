@@ -308,20 +308,19 @@ A suggested GitHub layout:
 ```text
 airline-loyalty-churn-prediction/
 │
-├── Airline_Loyalty_Churn_and_Segmentation.ipynb
-├── Customer Loyalty History.csv
-├── Customer Flight Activity.csv
-├── airline_customer_risk_and_segments.csv
-├── README.md
-├── requirements.txt
+├── IMAGES/
+│   ├── 01_churn_patterns.png
+│   ├── 02_model_performance.png
+│   ├── 03_top20_risk_confusion_matrix.png
+│   ├── 04_permutation_feature_importance.png
+│   ├── 05_kmeans_selection.png
+│   └── 06_churn_by_customer_segment.png
 │
-└── airline_loyalty_readme_assets/
-    ├── 01_churn_patterns.png
-    ├── 02_model_performance.png
-    ├── 03_top20_risk_confusion_matrix.png
-    ├── 04_permutation_feature_importance.png
-    ├── 05_kmeans_selection.png
-    └── 06_churn_by_customer_segment.png
+├── Airline_Loyalty_Churn_and_Segmentation (1).ipynb
+├── Customer Flight Activity (1).csv
+├── Customer Loyalty History (1).csv
+├── airline_customer_risk_and_segments.csv
+└── README.md
 ```
 
 If you prefer to keep datasets out of GitHub, add them to `.gitignore` and explain how to obtain the source files. Do not publish personal or restricted data without permission.
