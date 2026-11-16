@@ -220,7 +220,7 @@ Features are standardised before clustering. The churn target is **not** used to
 
 The notebook compares k values from 2 to 6. The silhouette score is highest at k=2 (0.386), while k=4 has a score of approximately 0.253. The notebook chooses **k=4 for business interpretability**, to distinguish established members by value as well as separate new/light and dormant members. The segments are not sharply separated.
 
-![Elbow method and silhouette score](airline_loyalty_readme_assets/05_kmeans_selection.png)
+![Elbow method and silhouette score](IMAGES/05_kmeans_selection.png)
 
 ### Four customer segments
 
