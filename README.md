@@ -231,7 +231,7 @@ The notebook compares k values from 2 to 6. The silhouette score is highest at k
 | New & light flyers | 2,774 | 22.5% | 13.7 | 9.8 | 6,871 | **7.7%** | **44.0%** |
 | Dormant | 613 | 5.0% | 26.6 | 0.2 | 8,380 | **8.8%** | 11.1% |
 
-![2018 churn rate by customer segment](airline_loyalty_readme_assets/06_churn_by_customer_segment.png)
+![2018 churn rate by customer segment](IMAGES/06_churn_by_customer_segment.png)
 
 ### Segment insights
 
