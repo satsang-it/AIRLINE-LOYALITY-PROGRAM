@@ -1,4 +1,8 @@
 # Airline Loyalty Program: Churn Prediction & Customer Segmentation
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Domain](https://img.shields.io/badge/Domain-Marketing%20Analytics-teal)
+![ML](https://img.shields.io/badge/Task-Binary%20Classification-orange)
+![Status](https://img.shields.io/badge/Status-Research%20Project-lightgrey)
 
 An end-to-end customer analytics and machine learning project that uses historical airline loyalty and flight activity data to identify members at risk of cancelling their membership, understand different customer groups, and recommend targeted retention actions.
 
